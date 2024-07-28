@@ -1,0 +1,1 @@
+git remote set-url origin https://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@github.com/userbaevv/intensive.git
